@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: light #use auto for system settings
   color: emerald
 
 # SEO
