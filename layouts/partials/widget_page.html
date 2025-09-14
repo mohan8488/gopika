@@ -1,0 +1,6 @@
+{{ $page := . }}
+{{ range $index, $widget := .Params.widget }}
+  {{ $widget_path := printf "widgets/%s.html" $widget }}
+  {{ $widget_args := dict "root" $page "page" $page "widget" (index $page.Params $widget) }}
+  {{ partial $widget_path $widget_args }}
+{{ end }}

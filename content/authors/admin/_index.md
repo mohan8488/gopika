@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Gopika Govindan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Gopika
+last_name: Govindan Govindapurath
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎭
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,97 +20,110 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Clinical Psychologist
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+#organizations:
+#  - name: OpenAI
+#    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:gopz06@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/gopikagg
   - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://www.instagram.com/humanizing_mental_health
+  #- icon: brands/github
+  #  url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/gopika-g-24814921/
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Stress management
+  - Depression
+  - Anxiety
+  - Grief
+  - Neurodevelopmental disorders
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: MPhil Clinical Psychology
+    institution: Manipal University, India
+    date_start: 2013-08-01
+    date_end: 2015-07-31
+    #summary: |
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  - area: MSc Clinical Psychology
+    institution: Swansea University, UK
+    date_start: 2009-09-01
+    date_end: 2011-08-30
+    #summary: |
+    #  GPA: 3.8/4.0#
+#
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Psychology (Honors)
+    institution: Bharathiar University, India
+    date_start: 2006-06-01
+    date_end: 2009-04-30
+    #summary: |
+    #  GPA: 3.4/4.0
+    #  
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Psychology Advisor- Occupational Safety HSSE
+    company_name: OMV, Austria
+    company_url: 'https://www.omv.com/en'
+    company_logo: omv
+    date_start: 2024-04-01
+    date_end: 2025-04-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Hsse safety leadership culture
+      - Occupational Psychology, Occupational Safety
+      - Cross-cultural Competence, Organization Skills
+  - position: Consultant Clinical Psychologist
+    company_name: LifeWorks - Counselling & Mental Health Centre, UAE
+    company_url: 'https://lifeworks.ae/'
+    company_logo: 'lifeworks'
+    date_start: 2023-01-01
+    date_end: 2024-03-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Learning Disabilities, Communication
+      - Relationship Building, Healthcare Consulting
+      - Special Education, Autism Spectrum Disorders
+  - position: Clinical Director
+    company_name: Hayat Health, UAE
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-11-01
+    date_end: 2022-11-30
+    summary: |
+      Responsibilities include:
+      - Learning Disabilities, Communication
+      - Relationship Building, Healthcare Consulting
+      - Special Education, Autism Spectrum Disorders
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
       - name: Python
         description: ''
@@ -128,32 +141,39 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Dance
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: custom/dance-icon
+      - name: Travel
+        description: ''
+        percent: 100
+        icon: custom/travel
+      - name: Movies
         description: ''
         percent: 80
-        icon: camera
+        icon: custom/movie
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hindi/Urdu
+    percent: 85
+  - name: Malayalam
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Neuro-Cognitive Trainer
+    url: https://www.brainrx.com/
+    date: '2023-11-25'
+    awarder: BrainRx
+    icon: brainrx
+    summary: |
+      As a psychologist, completing the BrainRx certification program was an invaluable experience. The training provided me with a deeper understanding of how cognitive skills such as attention, memory, processing speed, and reasoning form the foundation for learning and performance. The combination of assessment tools, one-on-one training methods, and digital exercises gave me practical strategies I can now apply in my own practice. I feel equipped not only to identify cognitive weaknesses in clients but also to provide structured, evidence-based interventions that lead to measurable improvements. Becoming certified has expanded my professional toolkit and strengthened my confidence in helping individuals achieve lasting cognitive growth.
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
@@ -181,6 +201,24 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Professional Summary
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<div style="max-width: 800px; margin: auto; text-align: justify; font-size: 1.05rem; line-height: 1.8;">
+
+Gopika Govindan is a **Clinical Psychologist** with over a decade of diverse international experience across the UK, USA, Greece, UAE, India, and Austria. Her work spans clinical consultancy for hospitals and corporates, and she has previously served as the **Clinical Director** for the Ghobash Group of Clinics in Abu Dhabi and Dubai, where she led rehabilitation teams and clinical operations.
+
+Academically, she holds an **MSc in Clinical and Abnormal Psychology** from [Swansea University](https://www.swansea.ac.uk/) (UK) and an **MPhil in Clinical Psychology** from [Manipal University](https://www.manipal.edu/mu.html) (India). She's also a **certified Neuro-Cognitive Trainer** (Brain Rx, USA), a **UK Board-Certified Dance Movement Therapist**, and an **NLP Practitioner**. My career began in 2009 with the **NHS UK** at [Cefn Coed Hospital](https://sbuhb.nhs.wales/hospitals/our-hospitals/cefn-coed-hospital/) in Wales (UK), supporting individuals through complex psychological challenges.
+
+My therapeutic work embraces a **holistic and multidisciplinary approach**, collaborating closely with doctors and fellow therapists. I was also an active volunteer with the **[Dubai Health Authority](https://www.dha.gov.ae/en)’s COVID-19 Mental Health Task Force**, delivering psychological first aid during the pandemic.
+
+
+My areas of expertise include:
+  - **Cognitive Behaviour Therapy (CBT)**
+  - **Habit Reversal Therapy (HRT)**
+  - **Dialectical Behaviour Therapy (DBT)**
+  - **Acceptance and Commitment Therapy (ACT)**
+  - **Mindfulness-Based Therapy**
+
+I offer **online psychotherapy** for both adolescents and adults, using an **eclectic and personalized approach** to support each individual's journey toward healing, resilience, and self-discovery.
+
+</div>
