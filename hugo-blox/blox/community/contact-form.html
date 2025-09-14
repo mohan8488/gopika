@@ -1,0 +1,32 @@
+{{ define "main" }}
+<section class="w-full flex justify-center items-center">
+  <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field"
+        class="w-full max-w-2xl p-6 text-white">
+    
+    <input type="hidden" name="form-name" value="contact" />
+    <p hidden>
+      <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+    </p>
+
+    <div class="mb-4">
+      <label>Your Name:</label>
+      <input type="text" name="name" required class="w-full p-3 border border-gray-300 rounded text-black">
+    </div>
+
+    <div class="mb-4">
+      <label>Your Email:</label>
+      <input type="email" name="email" required class="w-full p-3 border border-gray-300 rounded text-black">
+    </div>
+
+    <div class="mb-4">
+      <label>Your Message:</label>
+      <textarea name="message" rows="6" required class="w-full p-3 border border-gray-300 rounded text-black"></textarea>
+    </div>
+
+    <div>
+      <button type="submit" class="bg-blue-600 text-white px-6 py-3 rounded hover:bg-blue-700">Send Message</button>
+    </div>
+
+  </form>
+</section>
+{{ end }}
